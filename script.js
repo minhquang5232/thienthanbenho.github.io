@@ -4,7 +4,7 @@ const CONFIG = {
 	recipientName: "Em yêu",                      // Tên người nhận
 	senderName: "Anh",                            // Tên người gửi
 	photoSrc: "",                        // 
-	lockPassword: "231003",             // Mật khẩu để mở thiệp (chỉ số). Ví dụ: "000000"
+	lockPassword: "231000",             // Mật khẩu để mở thiệp (chỉ số). Ví dụ: "000000"
 	message: `Chúc mừng sinh nhật em yêu.
 Hôm nay là ngày của em, và anh chỉ mong em luôn vui vẻ, khỏe mạnh, bình an và gặp thật nhiều điều may mắn.
 Cảm ơn em vì đã ở bên anh, mang đến sự ấm áp và những khoảnh khắc mà anh luôn trân trọng.
